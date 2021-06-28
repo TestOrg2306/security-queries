@@ -1,0 +1,3 @@
+name: geekmasher-queries-java
+version: 0.0.0
+libraryPathDependencies: codeql-java
